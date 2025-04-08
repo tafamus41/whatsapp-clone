@@ -3,7 +3,7 @@ const nextConfig = {
 	images: {
 		remotePatterns: [
 			{ hostname: "friendly-orca-63.convex.cloud" },
-			// { hostname: "oaidalleapiprodscus.blob.core.windows.net" },
+			{ hostname: "oaidalleapiprodscus.blob.core.windows.net" },
 		],
 	},
 };
